@@ -22,6 +22,12 @@ class DatabaseSeeder extends Seeder
             'email' => 'superhero@qusoft.com',
             'password' => bcrypt('123456')
         ]);
+        /*
+        db -> andrever_superheros
+        user -> andrever_superheros
+        pass -> heros@*.
+
+        */
         //Hero::factory(15)->create();
     }
 }
