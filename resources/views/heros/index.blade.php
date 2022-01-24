@@ -16,7 +16,7 @@
                 Foto
             </th>
             <th>
-                Super Héroe hola
+                Super Héroe
             </th>
             <th>
                 Actor
